@@ -8,7 +8,7 @@ A simple application to let you know what Ron Swanson thinks!
 
 * **Hosted:** [ronswansays.herokuapp.com](https://ronswansays.herokuapp.com/)
 * [**Ron Swanson API**](https://ron-swanson-quotes.herokuapp.com/v2/quotes)
-* [**Repo**](https://ron-swanson-quotes.herokuapp.com/v2/quotes)
+* [**Repo**](https://github.com/jamesseanwright/ron-swanson-quotes)
 
 ## Setup
 ```
