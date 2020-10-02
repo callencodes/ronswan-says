@@ -93,7 +93,7 @@ export default {
   }
 
   body{
-    font-family: 'monoserrat', sans-serif;
+    font-family: 'monoserrat', monospace;
     text-align: center;
   }
 
